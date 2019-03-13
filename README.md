@@ -16,6 +16,7 @@
   - Video, look at frames, remove moving objects: 
     - Deep Background Subtraction: - https://orbi.uliege.be/bitstream/2268/195180/1/Braham2016Deep.pdf
     - A Deep Convolutional Neural Network for Background Subtraction: https://arxiv.org/pdf/1702.01731.pdf
+    - TriMap creation: https://arxiv.org/pdf/1707.00333.pdf
  ## Datasets: 
   - Berkeley Segmentation Dataset and Benchmark: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
   - COCO segmentation: http://cocodataset.org/#explore
