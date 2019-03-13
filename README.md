@@ -9,6 +9,7 @@
   - Foreground Segmentation in Images and Video: Methods, Systems and Applications 2007: https://www.juew.org/publication/JuePhdThesis.pdf
   - Flashcut: using flash/noflash image pair to extract foreground: https://www.researchgate.net/publication/4260039_Flash_Cut_Foreground_Extraction_with_Flash_and_No-flash_Image_Pairs
   - Deep Matting: https://arxiv.org/pdf/1703.03872.pdf
+  - AlphaGAN: gan for matting https://arxiv.org/pdf/1807.10088.pdf
   - Image and Video Matting: A Survey (2007) http://juew.org/publication/mattingSurvey.pdf
   - Sample images from vertus: https://www.vertustech.com/imggallery/
   - Interactive Foreground Extraction with Superpixels http://ee.cooper.edu/~keene/assets/rafi_thesis.pdf
