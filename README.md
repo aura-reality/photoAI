@@ -24,4 +24,5 @@
   - ADE20K segmentation: http://groups.csail.mit.edu/vision/datasets/ADE20K/
   - Foreground dataset: http://www.robots.ox.ac.uk/~vgg/data/iseg/
   - alpha matting dataset/competition??: http://www.alphamatting.com/datasets.php Looks like gold. 
+  - pascalVOC: http://host.robots.ox.ac.uk/pascal/VOC/
   
