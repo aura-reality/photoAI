@@ -5,7 +5,9 @@
   - Clipping Mask / Mask: photoshop term to cut image
   - Background extractin/subtraction
   - Foreground extraction
+  - Lecture with some terms: (binary segmentation, semantic segmentation, soft segmentation) http://vision.stanford.edu/teaching/cs131_fall1314_nope/lectures/StanfordSegmentationLectureNov2013.pdf
 ## Papers: 
+  - L
   - Foreground Segmentation in Images and Video: Methods, Systems and Applications 2007: https://www.juew.org/publication/JuePhdThesis.pdf
   - Flashcut: using flash/noflash image pair to extract foreground: https://www.researchgate.net/publication/4260039_Flash_Cut_Foreground_Extraction_with_Flash_and_No-flash_Image_Pairs
   - Deep Matting: https://arxiv.org/pdf/1703.03872.pdf
