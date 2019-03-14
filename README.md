@@ -2,12 +2,14 @@
 
 ## Terms: 
   - Matting: refers to the problem of accurate foreground estimation in images and video
+  - Matting vs binary segmentation:  The difference between segmentation and matting is the following: the result of segmentation is binary, which is either 0 or 1, while the result of matting is a continuous opacity, which is distributed among [0, 1]. 
   - Clipping Mask / Mask: photoshop term to cut image
   - Background extractin/subtraction
   - Foreground extraction
   - Lecture with some terms: (binary segmentation, semantic segmentation, soft segmentation) http://vision.stanford.edu/teaching/cs131_fall1314_nope/lectures/StanfordSegmentationLectureNov2013.pdf
+  
 ## Papers: 
-  - L
+  - Overview of common matting techniques: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8110616
   - Foreground Segmentation in Images and Video: Methods, Systems and Applications 2007: https://www.juew.org/publication/JuePhdThesis.pdf
   - Flashcut: using flash/noflash image pair to extract foreground: https://www.researchgate.net/publication/4260039_Flash_Cut_Foreground_Extraction_with_Flash_and_No-flash_Image_Pairs
   - Deep Matting: https://arxiv.org/pdf/1703.03872.pdf
