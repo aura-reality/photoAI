@@ -23,10 +23,19 @@
     - A Deep Convolutional Neural Network for Background Subtraction: https://arxiv.org/pdf/1702.01731.pdf
     - TriMap creation: https://arxiv.org/pdf/1707.00333.pdf
  ## Datasets: 
+  ### Semantic Segmentation: 
   - Berkeley Segmentation Dataset and Benchmark: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
   - COCO segmentation: http://cocodataset.org/#explore
   - ADE20K segmentation: http://groups.csail.mit.edu/vision/datasets/ADE20K/
-  - Foreground dataset: http://www.robots.ox.ac.uk/~vgg/data/iseg/
-  - alpha matting dataset/competition??: http://www.alphamatting.com/datasets.php Looks like gold. 
-  - pascalVOC: http://host.robots.ox.ac.uk/pascal/VOC/
-  
+  - PascalVOC Segmentation: http://host.robots.ox.ac.uk/pascal/VOC/voc2012/segexamples/index.html
+  ### Matting/Binary Segmentation: 
+  - Stanford binary segmentation: http://vision.stanford.edu/teaching/cs231b_spring1415/project.html
+  - AlphaMatting dataset/competition: http://www.alphamatting.com/datasets.php  
+  ### Product Data: 
+  - https://pixabay.com/fr/photos/search/?colors=transparent&min_height=640&min_width=640&order=latest&pagi=2
+  - https://data.world/datafiniti/mens-shoe-prices
+  - https://data.world/datafiniti?
+  - https://datafiniti.co
+  - http://jmcauley.ucsd.edu/data/amazon/links.html
+  - https://data.world/crowdflower/ecommerce-search-relevance
+
