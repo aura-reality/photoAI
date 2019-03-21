@@ -9,6 +9,7 @@
   - Lecture with some terms: (binary segmentation, semantic segmentation, soft segmentation) http://vision.stanford.edu/teaching/cs131_fall1314_nope/lectures/StanfordSegmentationLectureNov2013.pdf
   
 ## Papers: 
+  
   - Overview of common matting techniques: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8110616
   - Foreground Segmentation in Images and Video: Methods, Systems and Applications 2007: https://www.juew.org/publication/JuePhdThesis.pdf
   - Flashcut: using flash/noflash image pair to extract foreground: https://www.researchgate.net/publication/4260039_Flash_Cut_Foreground_Extraction_with_Flash_and_No-flash_Image_Pairs
@@ -22,6 +23,9 @@
     - Deep Background Subtraction: - https://orbi.uliege.be/bitstream/2268/195180/1/Braham2016Deep.pdf
     - A Deep Convolutional Neural Network for Background Subtraction: https://arxiv.org/pdf/1702.01731.pdf
     - TriMap creation: https://arxiv.org/pdf/1707.00333.pdf
+    ### Lighting
+    - Learning to See in the Dark: https://arxiv.org/pdf/1805.01934.pdf
+    - Relighting: http://cseweb.ucsd.edu/~viscomp/projects/SIG18Relighting/
  ## Datasets: 
   ### Semantic Segmentation: 
   - Berkeley Segmentation Dataset and Benchmark: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
