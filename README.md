@@ -26,6 +26,7 @@
     ### Lighting
     - Learning to See in the Dark: https://arxiv.org/pdf/1805.01934.pdf
     - Relighting: http://cseweb.ucsd.edu/~viscomp/projects/SIG18Relighting/
+    - Image based relighting using neural networks https://www.semanticscholar.org/paper/Image-based-relighting-using-neural-networks-Ren-Dong/e0ff65c1d6e8ba731265675f7a39727291a6b3c3
  ## Datasets: 
   ### Semantic Segmentation: 
   - Berkeley Segmentation Dataset and Benchmark: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
