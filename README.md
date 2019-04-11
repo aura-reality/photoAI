@@ -33,6 +33,7 @@
     - Image based relighting using neural networks https://www.semanticscholar.org/paper/Image-based-relighting-using-neural-networks-Ren-Dong/e0ff65c1d6e8ba731265675f7a39727291a6b3c3
  ## Datasets: 
   ### Semantic Segmentation: 
+  - http://videomatting.com/#datasets
   - http://www.wisdom.weizmann.ac.il/~vision/Seg_Evaluation_DB/scores.html
   - http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#segmentation
   - Berkeley Segmentation Dataset and Benchmark: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
