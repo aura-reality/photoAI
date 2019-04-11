@@ -8,6 +8,10 @@
   - Foreground extraction
   - Lecture with some terms: (binary segmentation, semantic segmentation, soft segmentation) http://vision.stanford.edu/teaching/cs131_fall1314_nope/lectures/StanfordSegmentationLectureNov2013.pdf
   
+## Blogs: 
+  - https://www.jeremyjordan.me/semantic-segmentation/#loss
+  - https://towardsdatascience.com/semantic-segmentation-with-deep-learning-a-guide-and-code-e52fc8958823
+  
 ## Papers: 
   
   - Overview of common matting techniques: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8110616
@@ -29,6 +33,8 @@
     - Image based relighting using neural networks https://www.semanticscholar.org/paper/Image-based-relighting-using-neural-networks-Ren-Dong/e0ff65c1d6e8ba731265675f7a39727291a6b3c3
  ## Datasets: 
   ### Semantic Segmentation: 
+  - http://www.wisdom.weizmann.ac.il/~vision/Seg_Evaluation_DB/scores.html
+  - http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#segmentation
   - Berkeley Segmentation Dataset and Benchmark: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
   - COCO segmentation: http://cocodataset.org/#explore
   - ADE20K segmentation: http://groups.csail.mit.edu/vision/datasets/ADE20K/
