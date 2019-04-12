@@ -7,10 +7,12 @@
   - Background extractin/subtraction
   - Foreground extraction
   - Lecture with some terms: (binary segmentation, semantic segmentation, soft segmentation) http://vision.stanford.edu/teaching/cs131_fall1314_nope/lectures/StanfordSegmentationLectureNov2013.pdf
-  
-## Blogs: 
+  Tutorial on https://www.analyticsvidhya.com/blog/2019/02/tutorial-semantic-segmentation-google-deeplab/
+## Blogs/Notes: 
   - https://www.jeremyjordan.me/semantic-segmentation/#loss
   - https://towardsdatascience.com/semantic-segmentation-with-deep-learning-a-guide-and-code-e52fc8958823
+  - Lecture Notes: http://cs231n.github.io/
+  - Tutorial on deeplab: https://www.analyticsvidhya.com/blog/2019/02/tutorial-semantic-segmentation-google-deeplab/
   
 ## Papers: 
   
